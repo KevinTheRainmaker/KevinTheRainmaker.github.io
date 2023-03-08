@@ -98,7 +98,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: 성장通 # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: AI 과학자를 꿈꾸는 아직은 작고 미미한, 백악기작은펭귄의 블로그
+blog_description: 티라노를 꿈꾸는, 그러나 아직은 작고 미미한, 백악기작은펭귄의 블로그
 permalink: /blog/:year/:title/
 
 # Pagination
