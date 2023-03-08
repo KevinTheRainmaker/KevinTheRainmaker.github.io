@@ -132,9 +132,9 @@ related_blog_posts:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: tistory.com
-    rss_url: https://kevin-rain.tistory.com/
+# external_sources:
+#   - name: tistory.com
+#     rss_url: https://kevin-rain.tistory.com/
 
 # -----------------------------------------------------------------------------
 # Collections
