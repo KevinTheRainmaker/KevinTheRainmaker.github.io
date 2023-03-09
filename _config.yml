@@ -14,11 +14,11 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧑‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: little_penguin.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kevintherainmaker.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -38,8 +38,6 @@ repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -74,7 +72,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
+kaggle_id: kangbeenko # your kaggle id
 instagram_id: lucete_lactea # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
