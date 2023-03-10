@@ -2,27 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Gwangju Institute of Science and Technology</p>
+    <p>123, Cheomdangwagi-ro</p>
+    <p>Buk-gu, Gwangju, Republic of Korea</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-##### I think the ultimate goal of the technology <br> is to benefit humans.
+##### **I think the ultimate goal of the technology <br> is to benefit humans.**
 
-##### So we, scientists should always look for problems <br> and think about solutions.
+##### **So we, scientists should always look for problems <br> and think about solutions.**
 
-<br>
 I always try to think in various viewoints. <br>
 I always try to think about what value I can create.
 
