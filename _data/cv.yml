@@ -13,34 +13,37 @@
   contents:
     - title: B.S.
       institution: Gwangju Institue of Science and Technology, Gwangju, Republic of Korea
-      year: 2019
+      year: 2019 - present
       description:
         - Major in C.S.
         - Minor in A.I.
+    - title: Research Intern
+      institution: ACSL, GIST
+      year: 2022 - 2023
+      description:
+        - 3D Scene Graph (3DSG) research
+        - Co-author of Survey paper about 3DSG
+        - Participate in developing the 3DSG Visualization Tool (2nd Contributor)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Core(Operator) / AI Team Lead
+      institution: Google Developer Student Clubs at GIST, 1st
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Operation of GDSC GIST 1st Tech Team
+        - Git Session Lecturer
+        - ML Study Operation & Participation
+        - Kaggle Study Operation & Participation
+        - GDSC X GDG 'AI in Wonderland' Session Operator
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: AI Mentor
+      institution: Google Developer Student Clubs at GIST, 2nd
+      year: 2022 - present
+      description:
+        - AI Technology Adoptation Mentoring
+        - Introducing AI news weekly
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
